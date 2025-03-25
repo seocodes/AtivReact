@@ -67,5 +67,4 @@ const styles = StyleSheet.create({
         marginRight: 25,
         marginLeft: 25,
     }
-
 })
