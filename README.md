@@ -12,4 +12,4 @@
 #
 
 ### IMPORTANTE‼️
-#### Nao há StackNavigator nem funções no botão de login, portanto, a única forma de visualizar as DUAS TELAS é descomentando e comentando-as em App.js.
+##### Não há StackNavigator, nem funções no botão de login, portanto, a única forma de VISULIZAR as TELAS é descomentando e comentando-as em App.js.
