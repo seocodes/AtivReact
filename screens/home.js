@@ -64,6 +64,8 @@ const styles = StyleSheet.create({
     nav: {
         flexDirection: "row",
         justifyContent: "space-evenly",
+        marginRight: 25,
+        marginLeft: 25,
     }
 
 })
